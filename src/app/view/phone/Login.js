@@ -1,6 +1,6 @@
 Ext.define('Login.view.phone.Login', {
 	extend : 'Ext.Panel',
-	xtype : 'login',
+	xtype : 'phone-login',
 	
 	requires : [
         'Ext.form.Panel',

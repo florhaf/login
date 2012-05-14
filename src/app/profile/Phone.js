@@ -8,13 +8,14 @@ Ext.define('Login.profile.Phone', {
 	
 	isActive : function() {
 
-        return Ext.os.is.Phone;
+        return true;
+        //return Ext.os.is.Phone;
 	},
 	
 	launch : function() {
 
         Ext.Viewport.add({
-            xtype : 'login'
+            xtype : 'phone-login'
         });
 	}
 });

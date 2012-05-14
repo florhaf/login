@@ -1,6 +1,6 @@
 Ext.define('Login.view.tablet.Login', {
 	extend : 'Ext.Panel',
-	xtype : 'login',
+	xtype : 'tablet-login',
 	
 	requires : [
         'Ext.form.Panel',

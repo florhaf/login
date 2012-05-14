@@ -8,13 +8,14 @@ Ext.define('Login.profile.Tablet', {
 	
 	isActive : function() {
 
-        return !Ext.os.is.Phone;
+        return false;
+        //return !Ext.os.is.Phone;
 	},
 	
 	launch : function() {
 
         Ext.Viewport.add({
-            xtype : 'login'
+            xtype : 'tablet-login'
         });
 	}
 });
