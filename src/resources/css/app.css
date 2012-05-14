@@ -1,0 +1,57 @@
+.background {
+	background-color : #003d70;
+}
+
+.background-dark {
+	background: -webkit-linear-gradient(top, #0c203d 1%, #00203b 3%, #002e54 11%);
+}
+
+.background-ipad {
+    background: -webkit-linear-gradient(top, #133057 1%, #132f56 50%, #1d406e 90%);
+}
+
+.login {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+hr {
+	
+	color : #111f37;
+	background-color : #33648d;
+	height : 2px;
+	border : 0;
+}
+
+.hrDiv {
+	margin-top : 5px;
+}
+
+.hrDiv-ipad {
+	margin-top : 15px;
+}
+
+.field {
+	border-radius : 0.4em;
+    height : 12px;
+}
+
+.button {
+	/*width : 90%;*/
+	margin-top : 20px;
+}
+
+.text {
+	color : white;
+	margin-top: 5px;
+}
+
+.text-ipad {
+	color : white;
+	margin-top: 20px;
+}
+
+.button-ipad {
+	width : 60%;
+	margin-top : 40px;
+}

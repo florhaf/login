@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-touch-fullscreen" content="yes">
+
+        <title>Login</title>
+
+        <link rel="stylesheet" href="lib/touch2/resources/css/sencha-touch.css" type="text/css" />
+		<link rel="stylesheet" href="resources/css/app.css" type="text/css" />
+        
+    </head>
+    <body>
+        <script type="text/javascript">
+            
+            var loginNameField  = '${loginNameField}';
+            var passwordField   = '${passwordField}';
+            //var nextURLField    = '${nextURLField}';
+            
+            var userAgent    = navigator.userAgent.toLowerCase();
+            
+            if (userAgent.indexOf("msie") >= 0 || userAgent.indexOf("firefox") >= 0) {
+                            
+               window.location = 'nonWebkit/?loginNameField=' + loginNameField + '&passwordField=' + passwordField;
+            }
+            
+        </script>
+        
+        <script type="text/javascript" src="lib/touch2/sencha-touch-debug.js"></script>
+        <script type="text/javascript" src="app.js"></script>
+      
+    </body>
+</html>
