@@ -8,8 +8,8 @@ Ext.define('Login.profile.Tablet', {
 	
 	isActive : function() {
 
-        return false;
-        //return !Ext.os.is.Phone;
+
+        return !Ext.os.is.Phone;
 	},
 	
 	launch : function() {

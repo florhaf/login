@@ -8,8 +8,7 @@ Ext.define('Login.profile.Phone', {
 	
 	isActive : function() {
 
-        return true;
-        //return Ext.os.is.Phone;
+        return Ext.os.is.Phone;
 	},
 	
 	launch : function() {

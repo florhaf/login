@@ -76,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all-classes.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="all-classes.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/all-classes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -87,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Phone.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Phone.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/profile/Phone.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+            <state line="10" column="8" selection-start="156" selection-end="156" vertical-scroll-proportion="0.1577287">
               <folding />
             </state>
           </provider>
@@ -99,7 +99,7 @@
       <file leaf-file-name="Tablet.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/profile/Tablet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="158" selection-end="171" vertical-scroll-proportion="0.0">
+            <state line="11" column="8" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,10 +127,10 @@
         <option value="$PROJECT_DIR$/app/view/LegalNotice.js" />
         <option value="$PROJECT_DIR$/app/view/phone/Login.js" />
         <option value="$PROJECT_DIR$/app/view/tablet/Login.js" />
-        <option value="$PROJECT_DIR$/app/profile/Tablet.js" />
-        <option value="$PROJECT_DIR$/app/profile/Phone.js" />
         <option value="$PROJECT_DIR$/index-prod.html" />
         <option value="$PROJECT_DIR$/app-all.js" />
+        <option value="$PROJECT_DIR$/app/profile/Tablet.js" />
+        <option value="$PROJECT_DIR$/app/profile/Phone.js" />
       </list>
     </option>
   </component>
@@ -475,20 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/profile/Tablet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="158" selection-end="171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/profile/Phone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/phone/Login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="36" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
@@ -537,6 +523,20 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/profile/Tablet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="8" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/profile/Phone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="8" selection-start="156" selection-end="156" vertical-scroll-proportion="0.1577287">
+          <folding />
         </state>
       </provider>
     </entry>
